@@ -10,6 +10,7 @@ License URI: http://opensource.org/licenses/MIT
 Tags:  one-column,two-columns,three-columns,four-columns,left-sidebar, right-sidebar, responsive-layout,full-width-template
 */
 .post-meta {list-style: none;}
+.post-content {max-width: 100%;}
 .post-meta-key {display: none;}
 body {
     color: #343434;
